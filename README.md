@@ -31,11 +31,11 @@ This repository is a collection of basic to intermediate JavaScript programs and
 
 ### ➤ Print Output
 
-```javascript
-console.log("Hello, JavaScript!");
-
+'''javascript
+console.log("Hello, JavaScript!");'''
 
 
 ## 📬 Connect
 
 - GitHub: [Shivamsourav183](https://github.com/Shivamsourav183)
+
